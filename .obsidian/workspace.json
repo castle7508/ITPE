@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.MG/tech-notes/014.BIA.md",
+                "file": "03.SW/tech-notes/007.형상관리(Configuration Management).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "014.BIA"
+              "title": "007.형상관리(Configuration Management)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.MG/tech-notes/014.BIA.md",
+                "file": "03.SW/tech-notes/056.요구사항_분석_및_품질_명세.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "014.BIA 의 백링크"
+              "title": "056.요구사항_분석_및_품질_명세 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.MG/tech-notes/014.BIA.md",
+                "file": "03.SW/tech-notes/056.요구사항_분석_및_품질_명세.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "014.BIA 의 나가는 링크"
+              "title": "056.요구사항_분석_및_품질_명세 의 나가는 링크"
             }
           },
           {
@@ -156,20 +156,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.MG/tech-notes/014.BIA.md",
+                "file": "03.SW/tech-notes/056.요구사항_분석_및_품질_명세.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "014.BIA 의 개요"
+              "title": "056.요구사항_분석_및_품질_명세 의 개요"
+            }
+          },
+          {
+            "id": "18a502c2770f01f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.SW/tech-notes/056.요구사항_분석_및_품질_명세.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "056.요구사항_분석_및_품질_명세"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 1261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +198,36 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "71e09e701bf777bd",
+  "active": "8b35b18378d3ecaf",
   "lastOpenFiles": [
-    "03.SW/tech-notes/053.추상클래스_및_인터페이스.md",
-    "02.MG/tech-notes/027.Value_Chain.md",
-    "02.MG/tech-notes/026.PEST_PESTEL_STEEP.md",
-    "02.MG/tech-notes/025.5-Force_Model.md",
-    "02.MG/tech-notes/024.Strategic_Analysis_Tools.md",
-    "03.SW/tech-notes/052.블랙박스_및_화이트박스_재사용.md",
-    "03.SW/tech-notes/051.MVC_및_MVVM_패턴.md",
-    "03.SW/tech-notes/050.GoF_행위_패턴(Behavioral_Patterns).md",
-    "03.SW/tech-notes/049.GoF_구조_패턴(Structural_Patterns).md",
-    "03.SW/tech-notes/048.GoF_생성_패턴(Creational_Patterns).md",
-    "03.SW/tech-notes/047.할리우드_원칙(Hollywood_Principle).md",
-    "03.SW/tech-notes/046.디자인_패턴(Design_Pattern).md",
-    "03.SW/tech-notes/045.의존성_주입(Dependency_Injection).md",
-    "02.MG/tech-notes/023.RPO.md",
-    "02.MG/tech-notes/022.RTO.md",
-    "03.SW/tech-notes/044.IoC(Inversion_of_Control).md",
-    "03.SW/tech-notes/043.AOP(Aspect_Oriented_Programming).md",
-    "02.MG/tech-notes/021.DRP.md",
-    "03.SW/tech-notes/042.개발_방법론_테일러링(Tailoring).md",
-    "02.MG/tech-notes/016.DRS.md",
-    "03.SW/tech-notes/041.객체지향_설계_원칙(SOLID).md",
-    "02.MG/tech-notes/020.Cyber_Resilience.md",
-    "02.MG/tech-notes/019.MTPD.md",
-    "03.SW/tech-notes/040.상속성(Inheritance).md",
-    "02.MG/tech-notes/018.Recovery_Metrics.md",
-    "03.SW/tech-notes/039.정보은닉(Information_Hiding).md",
+    "02.MG/tech-notes/034.LISS.md",
+    "02.MG/tech-notes/033.MECE.md",
+    "02.MG/tech-notes/032.4C_3C_Analysis.md",
+    "02.MG/tech-notes/031.SWOT_Analysis.md",
+    "02.MG/tech-notes/030.VRIO_Framework.md",
+    "02.MG/tech-notes/029.7S_Model.md",
+    "04.DS/tech-notes/001.DS_선형_비선형_자료구조.md",
+    "03.SW/tech-notes/158.애플리케이션_복잡도_보정계수.md",
+    "02.MG/tech-notes/028.MG_정보시스템_감리.md",
+    "04.DS/tech-notes",
+    "04.DS",
+    "GEMINI.MD",
+    "03.SW/tech-notes/159.하드웨어_규모산정.md",
+    "03.SW/tech-notes/144.소프트웨어_안전성_분석.md",
+    "03.SW/tech-notes/157.기능점수_산정_기법(간이법_및_정규법).md",
+    "03.SW/tech-notes/156.기능점수(Function_Point).md",
+    "03.SW/tech-notes/155.COCOMO_II.md",
+    "03.SW/tech-notes/154.COCOMO_I.md",
+    "03.SW/tech-notes/153.Halstead_소프트웨어_메트릭.md",
+    "03.SW/tech-notes/152.McCabe_회전_복잡도.md",
+    "03.SW/tech-notes/151.소프트웨어_비용_산정_모델.md",
+    "03.SW/tech-notes/150.기술가치평가.md",
+    "03.SW/tech-notes/145.FTA(Fault_Tree_Analysis).md",
+    "03.SW/tech-notes/056.요구사항_분석_및_품질_명세.md",
+    "03.SW/tech-notes/100.ISO_29119.md",
+    "03.SW/tech-notes/149.STPA(System-Theoretic_Process_Analysis).md",
+    "03.SW/tech-notes/148.ETA(Event_Tree_Analysis).md",
+    "03.SW/tech-notes/147.HAZOP(Hazard_and_Operability_Study).md",
     "02.MG/tech-notes",
     "02.MG",
     "새 폴더",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.MG/tech-notes/072.MG_ISO_IEC_38500.md",
+                "file": "02.MG/tech-notes/083.MG_ISP_및_ISMP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "072.MG_ISO_IEC_38500"
+              "title": "083.MG_ISP_및_ISMP"
             }
           }
         ]
@@ -198,8 +198,16 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8b35b18378d3ecaf",
+  "active": "71e09e701bf777bd",
   "lastOpenFiles": [
+    "08.AI/tech-notes/005.Generative_AI_User_Protection_Guideline_2025.md",
+    "11.OS/tech-notes/002.Process_Memory_Layout.md",
+    "03.SW/tech-notes/162.SW_Reengineering_and_Reverse_Engineering.md",
+    "03.SW/tech-notes/161.Architect_Roles_TA_AA.md",
+    "06.CA/tech-notes/002.GPU_vs_TPU.md",
+    "10.DB/tech-notes/003.DBMS_Migration_to_OpenSource.md",
+    "02.MG/tech-notes/083.MG_ISP_및_ISMP.md",
+    "02.MG/tech-notes/072.MG_ISO_IEC_38500.md",
     "05.SE/tech-notes/026.SE_DDoS_사이버대피소_및_DDoSaaS.md",
     "05.SE/tech-notes/025.SE_DDoS_심화_유형_및_대응.md",
     "05.SE/tech-notes/024.SE_DoS_및_DDoS_공격_개요.md",
@@ -218,18 +226,10 @@
     "05.SE/tech-notes/011.SE_양자내성암호_PQC.md",
     "05.SE/tech-notes/010.SE_QKDaaS.md",
     "05.SE/tech-notes/009.SE_양자암호통신_QKD.md",
-    "05.SE/tech-notes/008.SE_해시_보안_강화_기법.md",
-    "02.MG/tech-notes/072.MG_ISO_IEC_38500.md",
-    "02.MG/tech-notes/013.ISO_22301.md",
-    "07.SV/tech-notes/002.SV_양자_오류_및_양자_센서.md",
-    "06.CA/tech-notes/001.CA_양자컴퓨팅_아키텍처_및_구현_메커니즘.md",
     "06.CA/tech-notes",
     "06.CA",
-    "07.SV/tech-notes/001.SV_양자정보통신_개요_및_발전전략.md",
     "07.SV/tech-notes",
     "07.SV",
-    "05.SE/tech-notes/007.SE_HMAC_메시지_인증.md",
-    "05.SE/tech-notes/006.SE_암호학적_해시_함수.md",
     "05.SE/tech-notes",
     "05.SE",
     "04.DS/tech-notes",
